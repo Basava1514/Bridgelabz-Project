@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+azure-storage-blob
+python-multipart(required to upload file)
+python-dotenv(for reading .env file)
