@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'basavarajeshwari-project'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_053EDAD305764E1BBEC98005F4E9BCC7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AF8836F9D41F4121A431C5F02D3EC2A4 }}
