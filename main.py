@@ -7,7 +7,7 @@ load_dotenv()
 
 app = FastAPI()
 
-connection_string=os.environ['CONNECTION_STRING']
+connection_string="DefaultEndpointsProtocol=https;AccountName=storagetestmigrate1;AccountKey=LNDjvCqG3/pKT/DI1JZ+Jo+AQhbirIX+GwWwXW+21s6ofDbCIlZerLwqmUJ1bArk2jPmInkdVxPS+AStaaf2Fg==;EndpointSuffix=core.windows.net"
 
 container_name="cont1"
 
