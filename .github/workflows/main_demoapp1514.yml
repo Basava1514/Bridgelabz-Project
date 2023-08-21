@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'demoapp1514'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_48063905560645C5A19F3FDA4B600EA1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_849EB05081584D10BA14D727816F5A59 }}
